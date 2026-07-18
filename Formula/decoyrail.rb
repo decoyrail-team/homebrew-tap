@@ -1,9 +1,9 @@
 class Decoyrail < Formula
   desc "Endpoint firewall for AI agents: decoy secrets, egress policy, audit"
   homepage "https://decoyrail.com"
-  url "https://github.com/decoyrail-team/decoyrail/releases/download/v0.2.11/decoyrail-v0.2.11-aarch64-apple-darwin.tar.gz"
-  sha256 "f82809bfde11f2e5a40bd9e92cb01fe7f7d602ec2ed639e8a0b9abaaa8158167"
-  version "0.2.11"
+  url "https://github.com/decoyrail-team/decoyrail/releases/download/v0.3.0/decoyrail-v0.3.0-aarch64-apple-darwin.tar.gz"
+  sha256 "c95cc48bd8efe30bd26113951e4ef77f53e510d3583980ac45c91461a9b23c8c"
+  version "0.3.0"
   license "FSL-1.1-Apache-2.0"
 
   depends_on :macos
